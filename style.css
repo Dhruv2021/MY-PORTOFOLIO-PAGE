@@ -1,0 +1,29 @@
+h1 {
+    color:aqua
+}
+
+h2{
+    color:blue
+}
+
+.header{
+    background-color: cadetblue;
+    display:flex;
+    justify-content: space-between  ;
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: lightcoral;
+}
+.siteDescription{
+    background-color: lightgreen;
+    text-align: center;
+}
+.icons{
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+}
